@@ -1,4 +1,4 @@
-Weather Forecast CLI (Java)
+# Weather Forecast CLI (Java)
 A Command-Line Interface (CLI) application developed in Java that retrieves real-time weather information and short-term forecasts using the OpenWeatherMap API.
 This tool allows users to quickly check weather conditions for any city directly from the terminal.
 
