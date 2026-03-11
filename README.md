@@ -2,7 +2,7 @@
 A Command-Line Interface (CLI) application developed in Java that retrieves real-time weather information and short-term forecasts using the OpenWeatherMap API.
 This tool allows users to quickly check weather conditions for any city directly from the terminal.
 
-Features
+# Features
 Retrieve current weather data by entering a city name
 
 Display important weather parameters such as:
@@ -13,7 +13,7 @@ Display important weather parameters such as:
 
    Wind Speed
 
-Weather Condition
+# Weather Condition
 
 View short-term weather forecasts
 
@@ -21,7 +21,7 @@ Get alerts for extreme weather conditions like heat, cold, or rain
 
 Uses the OpenWeatherMap API for accurate real-time data
 
-Technologies Used
+# Technologies Used
   Java
 
   REST API Integration
@@ -30,7 +30,7 @@ Technologies Used
 
 OpenWeatherMap API
 
-Installation and Setup
+# Installation and Setup
 
 1.Clone the Repository
 git clone https://github.com/your-username/weather-forecast-cli.git
@@ -47,7 +47,7 @@ java Main
 5.Enter the City Name
 The program will prompt you to enter a city name to fetch weather details.
 
-Example Output
+# Example Output
 Temperature : 28 °C
 Condition   : Scattered Clouds
 Humidity    : 70 %
