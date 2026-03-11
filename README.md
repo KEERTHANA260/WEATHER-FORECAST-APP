@@ -48,6 +48,7 @@ java Main
 The program will prompt you to enter a city name to fetch weather details.
 
 # Example Output
+
 Temperature : 28 °C
 Condition   : Scattered Clouds
 Humidity    : 70 %
